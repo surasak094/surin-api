@@ -1,0 +1,2 @@
+﻿Date,MinTemp,MaxTemp,Rainfall,Evaporation,Sunshine,WindGustSpeed,WindSpeed9am,WindSpeed3pm,Humidity9am,Humidity3pm,Pressure9am,Pressure3pm,Cloud9am,Cloud3pm,Temp9am,Temp3pm,RainToday,RISK_MM
+1/1/2020,8,24.3,0,3.4,6.3,30,6,20,68,29,1019.7,1015,7,7,14.4,23.6,No,3.6
